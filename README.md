@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13271258.svg)](https://doi.org/10.5281/zenodo.13271258)
+
 # Supplementary materials: Fiddler crabs (*Afruca tangeri*) detect second-order motion in both intensity and polarization.
 ### Supplementary information for: Samuel P. Smithers, Maisie F. Brett, Martin J. How, Nicholas E. Scott-Samuel, and Nicholas W. Roberts. (Communications Biology, 2024) *Fiddler crabs (Afruca tangeri) detect second-order motion in both intensity and polarization.*
 
